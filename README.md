@@ -33,7 +33,7 @@
      ```
      DISCORD_TOKEN=your_bot_token_here
      ```
-3. **Add  Channels Id's **
+3. **Add  Channels Id's**
    - Add Channels Id's in Config.js
   
      
