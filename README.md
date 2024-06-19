@@ -1,7 +1,7 @@
 # Simple-Moderation-Bot
 
 
-🤖 Welcome to KAP6214, your friendly Discord bot!
+🤖 Welcome to KAP6214 Creation, a User friendly Discord bot!
 
 ## Commands
 
