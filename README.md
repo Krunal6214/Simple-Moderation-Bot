@@ -33,7 +33,10 @@
      ```
      DISCORD_TOKEN=your_bot_token_here
      ```
-
+3. **Add  Channels Id's **
+   - Add Channels Id's in Config.js
+  
+     
 ## Join Our Server
 
 🚀 Want to discuss the bot, suggest features, or need support? Join our Discord server!
